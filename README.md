@@ -8,12 +8,12 @@
     <link href="style.css" rel="stylesheet" >
 </head>
 <body>
-
-<div id="cabecalho">
- <div id="menu-principal">
-
- </div>
+<div id="site">
+     <div id="cabecalho">
+       <div id="menu-principal">
 </div>
+ </div>
+
 <div id="conteudo">
   <div id="conteudo-principal">
 
@@ -26,6 +26,7 @@
   </div>
 
 </div>
+
 </body>
 
 </html>
